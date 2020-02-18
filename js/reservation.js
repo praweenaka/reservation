@@ -74,7 +74,6 @@ function assign_dt3() {
 //            alert(xx[i]);
 
             document.getElementById(xx[i]).style.backgroundColor = "red";
-            document.getElementById(xx[i]).disabled = true;
 
         }
 
@@ -295,7 +294,7 @@ function ch_reserve(name) {
     }
 
     document.getElementById("tables").value = tables;
-
+//    checkreserved();
 }
 
 function custno(code)
