@@ -6,7 +6,7 @@ session_start();
 
     <div class="box box-header">
         <div class="box-header with-border ">
-            <h3 class="box-title"><b>Approve By Canteen</b></h3>
+            <h3 class="box-title"><b>Approve By Canteens</b></h3>
         </div>
         <form name= "form1" role="form" class="form-horizontal">
 
