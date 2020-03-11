@@ -100,7 +100,7 @@
                 </div>
             </div>
             <div class="form-group">
-                <label  class="col-sm-9 control-label"  for="grand_tottxt">TOTAL</label>
+                <label  class="col-sm-9 control-label"  for="grand_tottxt">TOTAL Amount</label>
                 <div class="col-sm-2">
                     <input type="text" id="total" style="text-align: right" class="form-control  input-sm">
                 </div>
