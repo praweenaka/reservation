@@ -10,7 +10,7 @@ $_SESSION['mealType'] = "breakFast";
 <html lang="en">
 
     <head>
-        <title>Approve KOT Entry</title>
+        <title>Approve KOT Entry Canteen</title>
 
         <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <!-- Font Awesome -->

@@ -5,7 +5,7 @@
 
     <div class="box box-primary">
         <div class="box-header with-border">
-            <h2 class="box-title"><strong>KOT APPROVAL</strong></h2>
+            <h2 class="box-title"><strong>KOT APPROVAL Canteen</strong></h2>
         </div>
         <form name= "form1" role="form" class="form-horizontal">
             <div class="box-body">
